@@ -17,7 +17,7 @@ SpaceX is a revolutionary company who has disrupt the space industry by offering
 6. [**Interactive Visual Analytics with Folium**](https://github.com/farishelmi17/Applied-Data-Science-Capstone-SpaceX/blob/main/notebook:Interactive_Visual_Analytics_with_Folium_M8uUhCmHY.ipynb)
 7. [**Dashboard Application (Code)**](https://github.com/farishelmi17/Applied-Data-Science-Capstone-SpaceX/blob/main/spacex_dash_app.py)
 8. [**Predictive Analysis - Machine Learning Lab**](https://github.com/farishelmi17/Applied-Data-Science-Capstone-SpaceX/blob/main/notebook:Predictive_Analysis_-_Machine_Learning_Lab_hdUi_lnX5.ipynb)
-9. [** Final Presentation (Slide)**](https://github.com/farishelmi17/Applied-Data-Science-Capstone-SpaceX/blob/main/SpaceX_compressed.pdf)
+9. [**Final Presentation (Slide)**](https://github.com/farishelmi17/Applied-Data-Science-Capstone-SpaceX/blob/main/SpaceX_compressed.pdf)
 
 
 ### Acknowledgements 
