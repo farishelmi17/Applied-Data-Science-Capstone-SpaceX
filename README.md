@@ -10,7 +10,6 @@ SpaceX is a revolutionary company who has disrupt the space industry by offering
 
 
 
-Muhammad Faris Al Helmi Bin Mad Kamal
 
 ### Acknowledgements 
 
