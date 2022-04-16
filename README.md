@@ -4,15 +4,9 @@
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone/context:python)
 <a href="https://colab.research.google.com/github/ADGVLOGS/adgmlclass/blob/main/ADGMLCLASSDemo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Interactive Demo"/></a>
 
-## About
+## Introduction
 
-I predicted if the Falcon 9 first stage will land successfully. SpaceX
-advertises Falcon 9 rocket launches on its website, with a cost of 62
-million dollars; other providers cost upward of 165 million dollars each,
-much of the savings is because SpaceX can reuse the first stage.
-Therefore, if we can determine if the first stage will land, we can
-determine the cost of a launch. This information can be used if an
-alternate company wants to bid against SpaceX for a rocket launch. 
+SpaceX is a revolutionary company who has disrupt the space industry by offering a rocket launches specifically Falcon 9 as low as 62 million dollars; while other providers cost upward of 165 million dollar each. Most of this saving thanks to SpaceX astounding idea to reuse the first stage of the launch by re-land the rocket to be used on the next mission. Repeating this process will make the price down even further. As a data scientist of a startup rivaling SpaceX, the goal of this project is to create the machine learning pipeline to predict the landing outcome of the first stage in the future. This project is crucial in identifying the right price to bid against SpaceX for a rocket launch.
 
 
 
